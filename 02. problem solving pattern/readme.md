@@ -2,7 +2,6 @@
 
 > List of Approach!
 
-1. Frequency Counter => O(n**2) => (n)
-2. Divide & Conquer
-3. Greedy Approach
-4. Dynamic approach
+1. Frequency Counter => O(n**2) => (n) => change it to diffrent structure
+2. window patern => slide window from 1 to +1 n subract -1
+3. multiple Pointer => O(n**2) => O(n) => work on sorted array! 2 index!!
